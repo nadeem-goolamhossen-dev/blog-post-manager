@@ -8,3 +8,8 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+###> phpstorm and node_modules ###
+/.idea
+/node_modules/
+###< phpstorm and node_modules ###

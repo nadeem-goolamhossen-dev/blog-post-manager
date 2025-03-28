@@ -1,5 +1,6 @@
 api_platform:
-    title: Hello API Platform
+    title: Blog Post manager
+    description: Manage Blog Post usin Api Platform
     version: 1.0.0
     defaults:
         stateless: true
