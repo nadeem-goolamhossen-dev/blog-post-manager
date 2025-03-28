@@ -50,3 +50,8 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+
+###> phpstorm and node_modules ###
+/.idea
+/node_modules/
+###< phpstorm and node_modules ###
